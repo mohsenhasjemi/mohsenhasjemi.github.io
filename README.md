@@ -3,6 +3,7 @@ I am a language researcher interested in both (systemic) functional linguistics 
 
 I worked as a Terminology Expert at the [RCTS](https://apll.ir/rcts/). I assumed a part-time Editor role at [Goman Publication](https://gomanbook.com/) from December 2016 onwards. Prior to these roles, I served as the COO at [Lahn-e Digar](https://www.instagram.com/lahnedigar/), overseeing various aspects of audiobook production.
 
+
 ## EDUCATION
 - **MA in Terminology, [RCTS](https://apll.ir/rcts/)** <br>
 September 2016 - September 2020 <br>

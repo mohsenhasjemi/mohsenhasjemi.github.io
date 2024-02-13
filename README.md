@@ -6,9 +6,12 @@ I worked as a Terminology Expert at the [RCTS](https://apll.ir/rcts/). I assumed
 
 ## EDUCATION
 Master of Arts in Terminology, [RCTS](https://apll.ir/rcts/)
+
 September 2016 - September 2020
+
 GPA: 3.75/4.00
-The curricular content within this domain closely aligns with that of Linguistics programs. Under the supervision of [Dr. Mohammad Dabir-Moghaddam](https://en.wikipedia.org/wiki/Mohammad_Dabir_Moghaddam/), my scholarly pursuit culminated in the completion of a Master's thesis. This thesis centered on the meticulous examination of modality and polarity systems within Persian scientific discourse, employing the analytical framework of systemic functional grammar.
+
+The curricular content within this domain closely aligns with that of Linguistics programs. Under the supervision of [Mohammad Dabir-Moghaddam](https://en.wikipedia.org/wiki/Mohammad_Dabir_Moghaddam/), my scholarly pursuit culminated in the completion of a Master's thesis. This thesis centered on the meticulous examination of modality and polarity systems within Persian scientific discourse, employing the analytical framework of systemic functional grammar.
 
 Bachelor of Science in Industrial Engineering, [KIAU](https://karaj.iau.ir/en)
 September 2010 - October 2015

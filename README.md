@@ -1,5 +1,5 @@
 ## ABOUT ME
-I am a **language researcher** interested in both (systemic) functional linguistics and natural language processing, at the Terminology Department of the Academy of Persian Language and Literature, [APLL](https://apll.ir/).
+I am a **Language Researcher** interested in both (Systemic) Functional Linguistics and Natural Language Processing, at the Terminology Department of the Academy of Persian Language and Literature, [APLL](https://apll.ir/).
 
 I worked as a Terminology Expert at the [RCTS](https://apll.ir/rcts/). I assumed a part-time Editor role at [Goman Publication](https://gomanbook.com/) from December 2016 onwards. Prior to these roles, I served as the COO at [Lahn-e Digar](https://www.instagram.com/lahnedigar/), overseeing various aspects of audiobook production.
 

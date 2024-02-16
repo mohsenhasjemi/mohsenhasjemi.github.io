@@ -11,3 +11,8 @@ The academic focus closely parallels Linguistics programs. Guided by [Mohammad D
 - **BS in Industrial Engineering, [KIAU](https://karaj.iau.ir/en)** <br>
 September 2010 - October 2015 <br>
 My studies have covered a diverse range of topics including operations research, production planning and control, quality management, probability theory, and statistical analysis.
+
+## Certifications
+- **Intro to Programming** <br>
+February 2024 <br>
+[Kaggle](/assets/img/Certifications/Intro to Programming.png)

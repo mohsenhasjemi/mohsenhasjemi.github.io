@@ -12,9 +12,11 @@ September 2010 - October 2015 <br>
 My studies have covered a diverse range of topics including operations research, production planning and control, quality management, probability theory, and statistical analysis.
 
 ## Certifications
-- **Intro to Programming** <br>
-February 2024 <br>
-[Kaggle](https://www.kaggle.com/learn/certification/mhsenhshemi/intro-to-programming)
+- **Intro to Programming**,  <br>
+Provider: [Kaggle](https://www.kaggle.com/learn/certification/mhsenhshemi/intro-to-programming) <br>
+Completion Date: February 2024 <br>
+Instructor: [Alexis Cook](https://www.kaggle.com/alexisbcook) <br>
+
 
 ## Publication
 - Hashemi, M. & Nikrafat, Sh. (2023). Co-translated segment of "Un homme qui dort (A Man Asleep)" by George Perec. Published in [Kenareh Magazine](https://gomanbook.com/product/kenarehmag/), 1, pp. 151-159. Tehran, Iran.

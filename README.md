@@ -21,6 +21,11 @@ Instructor: [Alexis Cook](https://www.kaggle.com/alexisbcook) <br>
 ## Publication
 - Hashemi, M. & Nikrafat, Sh. (2023). Co-translated segment of "Un homme qui dort (A Man Asleep)" by George Perec. Published in [Kenareh Magazine](https://gomanbook.com/product/kenarehmag/), 1, pp. 151-159. Tehran, Iran.
 
+## Blog
+- [The Edge of the Text](https://edgeoftext.blogspot.com/) <br>
+Since: August 2019 <br>
+[Telegram](https://t.me/tarikja), [Instagram](https://www.instagram.com/edgeoftext)
+
 ## Language
 - English: Professional Working <br>
 - Persian: Native/Bilingual <br>

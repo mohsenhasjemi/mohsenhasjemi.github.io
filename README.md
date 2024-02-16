@@ -2,6 +2,8 @@ As a **Language Researcher** with a keen focus on [(Systemic) Functional Linguis
 
 My previous professional experience includes serving as a Terminology Expert at the [Research Center of Terminology Studies](https://apll.ir/rcts/). Additionally, I have undertaken a part-time Editor role at [Goman Publication](https://gomanbook.com/) since December 2016. Preceding these engagements, I held the position of Chief Operating Officer at [Lahn-e Digar](https://www.instagram.com/lahnedigar/).
 
+## Publication
+- Hashemi, M. & Nikrafat, S. (2023). Co-translated segment of "Un homme qui dort (A Man Asleep)" by George Perec. Published in [Kenareh Magazine](https://gomanbook.com/product/kenarehmag/), 1, pp. 151-159. Tehran, Iran.
 
 ## Education
 - **MA in Terminology, [RCTS](https://apll.ir/rcts/)** <br>

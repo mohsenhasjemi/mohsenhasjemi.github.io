@@ -15,4 +15,4 @@ My studies have covered a diverse range of topics including operations research,
 ## Certifications
 - **Intro to Programming** <br>
 February 2024 <br>
-[Kaggle](/assets/img/Certifications/Intro to Programming.png)
+[Kaggle](https://www.kaggle.com/learn/certification/mhsenhshemi/intro-to-programming)

@@ -30,6 +30,6 @@ Since: August 2019 <br>
 ## Language
 - English: Professional Working <br>
 - Persian: Native/Bilingual <br>
-- Azerbaijani: Bilingual <br>
+- Azerbaijani: Native/Bilingual <br>
 - Turkish: Intermediate <br>
 - French: Elementary <br>

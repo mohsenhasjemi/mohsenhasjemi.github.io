@@ -13,9 +13,10 @@ My studies have covered a diverse range of topics including operations research,
 
 ## Certifications
 - **Intro to Programming**,  <br>
-Provider: [Kaggle](https://www.kaggle.com/learn/certification/mhsenhshemi/intro-to-programming) <br>
+Provider: [Kaggle](https://www.kaggle.com) <br>
 Completion Date: February 2024 <br>
 Instructor: [Alexis Cook](https://www.kaggle.com/alexisbcook) <br>
+[Credential](https://www.kaggle.com/learn/certification/mhsenhshemi/intro-to-programming) <br>
 
 
 ## Publication

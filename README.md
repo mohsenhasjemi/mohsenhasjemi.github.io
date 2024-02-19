@@ -12,13 +12,13 @@ September 2010 - October 2015 <br>
 My studies have covered a diverse range of topics including operations research, production planning and control, quality management, probability theory, and statistical analysis.
 
 ## Certifications
-- **Python**,  <br>
+- **Python**  <br>
 Provider: [Kaggle](https://www.kaggle.com) <br>
 Completion Date: February 2024 <br>
 Instructor: [Colin Morris](https://www.kaggle.com/colinmorris) <br>
 [Credential](https://www.kaggle.com/learn/certification/mhsenhshemi/python) <br>
 
-- **Intro to Programming**,  <br>
+- **Intro to Programming**  <br>
 Provider: [Kaggle](https://www.kaggle.com) <br>
 Completion Date: February 2024 <br>
 Instructor: [Alexis Cook](https://www.kaggle.com/alexisbcook) <br>

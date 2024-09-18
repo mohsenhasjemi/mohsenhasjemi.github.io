@@ -24,6 +24,10 @@ Completion Date: February 2024 <br>
 Instructor: [Alexis Cook](https://www.kaggle.com/alexisbcook) <br>
 [Credential](https://www.kaggle.com/learn/certification/mhsenhshemi/intro-to-programming) <br>
 
+- **Applied Terminology**  <br>
+Provider: Academy of Persian Language and Literature <br>
+Completion Date: October 2017 <br>
+Instructor: [Christian Galinski](http://www.infoterm.info/about_us/infoterm_staff.php) <br>
 
 ## Publication
 - Hashemi, M. & Nikrafat, Sh. (2023). Co-translated segment of "Un homme qui dort (A Man Asleep)" by George Perec. Published in [Kenareh Magazine](https://gomanbook.com/product/kenarehmag/), 1, pp. 151-159. Tehran, Iran.

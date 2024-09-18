@@ -24,6 +24,15 @@ Completion Date: February 2024 <br>
 Instructor: [Alexis Cook](https://www.kaggle.com/alexisbcook) <br>
 [Credential](https://www.kaggle.com/learn/certification/mhsenhshemi/intro-to-programming) <br>
 
+- **Lectures in Persian Science Language**  <br>
+Provider: Academy of Persian Language and Literature <br>
+Completion Date: December 2022 <br>
+
+- **An Introduction to Pahlavi Orthography and Language**  <br>
+Provider: Academy of Persian Language and Literature <br>
+Completion Date: January 2022 <br>
+Instructor: [Majid Tame](https://apll.ir/1398/07/30/%d9%85%d8%b9%d8%a7%d9%88%d9%86-%d9%88-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a6%d8%aa-%d8%b9%d9%84%d9%85%db%8c-%da%af%d8%b1%d9%88%d9%87-%d8%b2%d8%a8%d8%a7%d9%86%e2%80%8c%d9%87%d8%a7-%d9%88/) <br>
+
 - **Applied Terminology**  <br>
 Provider: Academy of Persian Language and Literature <br>
 Completion Date: October 2017 <br>

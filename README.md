@@ -15,6 +15,12 @@ September 2010 - October 2015 <br>
 My studies have covered a diverse range of topics including operations research, production planning and control, quality management, probability theory, and statistical analysis.
 
 ## Certifications
+- **Dive into Data Science**  <br>
+Provider: [Dayche]((https://dayche.com/) <br>
+Completion Date: September 2024 <br>
+Instructor: [Mohammad Rouzbeh](https://www.linkedin.com/in/mohammad-rouzbeh-01b8a378/) <br>
+[Credential]((https://dayche.com/certification/1277E48A2-31234F3-85059/) <br>
+
 - **Python**  <br>
 Provider: [Kaggle](https://www.kaggle.com) <br>
 Completion Date: February 2024 <br>

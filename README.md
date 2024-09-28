@@ -16,7 +16,7 @@ My studies have covered a diverse range of topics including operations research,
 
 ## Certifications
 - **Dive into Data Science**  <br>
-Provider: [Dayche]((https://dayche.com/) <br>
+Provider: [Dayche](https://dayche.com/) <br>
 Completion Date: September 2024 <br>
 Instructor: [Mohammad Rouzbeh](https://www.linkedin.com/in/mohammad-rouzbeh-01b8a378/) <br>
 [Credential](https://dayche.com/certification/1277E48A2-31234F3-85059/) <br>

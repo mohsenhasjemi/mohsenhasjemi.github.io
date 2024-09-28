@@ -2,9 +2,6 @@ I’m an industrial engineer with a strong focus on integrating technology and l
 
 My background includes serving as a Terminology Expert at the [Research Center of Terminology Studies](https://apll.ir/rcts/) and a part-time Editor at [Goman Publication](https://gomanbook.com/), where I’ve refined my skills in content quality and editorial processes. Previously, I was the Chief Operating Officer at [Lahn-e Digar](https://www.instagram.com/lahnedigar/), overseeing operations and implementing technology-driven solutions to enhance efficiency.
 
-## Publication
-- Hashemi, M. & Nikrafat, Sh. (2023). Co-translated segment of "Un homme qui dort (A Man Asleep)" by George Perec. Published in [Kenareh Magazine](https://gomanbook.com/product/kenarehmag/), 1, pp. 151-159. Tehran, Iran.
-
 ## Education
 - **MA in Terminology, [RCTS](https://apll.ir/rcts/)** <br>
 September 2016 - September 2020 <br>
@@ -46,6 +43,9 @@ Instructor: [Majid Tame](https://apll.ir/1398/07/30/%d9%85%d8%b9%d8%a7%d9%88%d9%
 Provider: Academy of Persian Language and Literature <br>
 Completion Date: October 2017 <br>
 Instructor: [Christian Galinski](http://www.infoterm.info/about_us/infoterm_staff.php) <br>
+
+## Publication
+- Hashemi, M. & Nikrafat, Sh. (2023). Co-translated segment of "Un homme qui dort (A Man Asleep)" by George Perec. Published in [Kenareh Magazine](https://gomanbook.com/product/kenarehmag/), 1, pp. 151-159. Tehran, Iran.
 
 ## Blog
 - [The Edge of the Text](https://edgeoftext.blogspot.com/) (Literary) <br>

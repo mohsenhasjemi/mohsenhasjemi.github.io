@@ -1,8 +1,3 @@
-I’m an industrial engineer with a strong focus on integrating technology and linguistics. Currently, I’m a Language and Technology Specialist at the [Academy of Persian Language and Literature](https://apll.ir/), where I explore the intersection of Linguistics and Natural Language Processing to advance the Persian language.
-
-My background includes serving as a Terminology Expert at the [Research Center of Terminology Studies](https://apll.ir/rcts/) and a part-time Editor at [Goman Publication](https://gomanbook.com/), where I’ve refined my skills in content quality and editorial processes. Previously, I was the Chief Operating Officer at [Lahn-e Digar](https://www.instagram.com/lahnedigar/), overseeing operations and implementing technology-driven solutions to enhance efficiency.
-
-
 I am a data professional with a background in industrial engineering, currently focusing on data science and digital transformation. My goal is to create data-driven solutions that drive innovation and efficiency.
 
 I have experience as a Linguistic Data Analyst at the [Academy of Persian Language and Literature](https://apll.ir/), where I worked with extensive terminological datasets to enhance workflow efficiency. As a Terminology Expert at the [Research Center of Terminology Studies](https://apll.ir/rcts/), I supported research and decision-making through data-driven approaches in terminology management.

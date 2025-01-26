@@ -56,8 +56,10 @@ Since: August 2019 <br>
 [Telegram](https://t.me/tarikja), [Instagram](https://www.instagram.com/edgeoftext)
 
 ## Language
-- English: Professional Working <br>
+- English: Professional Working Proficiency <br>
 - Persian: Native/Bilingual <br>
+- Dutch: Elementary <br>
+- Turkish: Limited Working Proficiency <br>
 - Azerbaijani: Native/Bilingual <br>
-- Turkish: Intermediate <br>
-- French: Elementary <br>
+
+

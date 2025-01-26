@@ -2,6 +2,14 @@ I’m an industrial engineer with a strong focus on integrating technology and l
 
 My background includes serving as a Terminology Expert at the [Research Center of Terminology Studies](https://apll.ir/rcts/) and a part-time Editor at [Goman Publication](https://gomanbook.com/), where I’ve refined my skills in content quality and editorial processes. Previously, I was the Chief Operating Officer at [Lahn-e Digar](https://www.instagram.com/lahnedigar/), overseeing operations and implementing technology-driven solutions to enhance efficiency.
 
+
+I am a data professional with a background in industrial engineering, currently focusing on data science and digital transformation. My goal is to create data-driven solutions that drive innovation and efficiency.
+
+I have experience as a Linguistic Data Analyst at the [Academy of Persian Language and Literature](https://apll.ir/), where I worked with extensive terminological datasets to enhance workflow efficiency. As a Terminology Expert at the [Research Center of Terminology Studies](https://apll.ir/rcts/), I supported research and decision-making through data-driven approaches in terminology management.
+
+Additionally, I have worked as an editor at [Goman Publication](https://gomanbook.com/), contributing to various translations and publications. As the Chief Operating Officer at Lahn-e Digar, I led operations, implemented Scrum methodology, and established a recording studio for high-quality audiobook production.
+
+
 ## Education
 - **MA in Terminology, [RCTS](https://apll.ir/rcts/)** <br>
 September 2016 - September 2020 <br>

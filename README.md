@@ -57,9 +57,8 @@ Since: August 2019 <br>
 
 ## Language
 - English: Professional Working Proficiency <br>
-- Persian: Native/Bilingual <br>
-- Dutch: Elementary <br>
+- Persian: Native <br>
 - Turkish: Limited Working Proficiency <br>
-- Azerbaijani: Native/Bilingual <br>
+- Dutch: Elementary <br>
 
 

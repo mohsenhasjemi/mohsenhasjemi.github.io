@@ -1,6 +1,6 @@
 ## Exploring Data-Driven Solutions
 
-I am a data professional with a background in industrial engineering, currently focusing on data science and digital transformation. My goal is to create data-driven solutions that drive innovation and efficiency.
+I am an industrial engineer with a data-driven approach, currently undergoing a Digital Transformation traineeship at the [Digital Society School](https://digitalsocietyschool.org/) in Amsterdam, Netherlands. My goal is to enhance my expertise in data science and digital transformation, leveraging data to drive innovation and informed decision-making.
 
 ## Experience
 

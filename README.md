@@ -10,9 +10,8 @@ Additionally, I have worked as an editor at [Goman Publication](https://gomanboo
 
 ## Education
 
-- **Postgraduate Traineeship in Digital Transformation, [HvA](https://www.amsterdamuas.com/)**
-February 2025
-
+- **Postgraduate Traineeship in Digital Transformation, [HvA](https://www.amsterdamuas.com/)**  
+  February 2025
 
 - **MA in Terminology, [RCTS](https://apll.ir/rcts/)**  
   September 2016 - September 2020  

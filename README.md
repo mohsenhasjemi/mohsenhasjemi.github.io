@@ -10,6 +10,10 @@ Additionally, I have worked as an editor at [Goman Publication](https://gomanboo
 
 ## Education
 
+- **Postgraduate Traineeship in Digital Transformation, [HvA](https://www.amsterdamuas.com/)**
+February 2025
+
+
 - **MA in Terminology, [RCTS](https://apll.ir/rcts/)**  
   September 2016 - September 2020  
   The academic focus closely parallels Linguistics programs. Guided by [Mohammad Dabir-Moghaddam](https://en.wikipedia.org/wiki/Mohammad_Dabir_Moghaddam), I completed a Master's thesis delving into the intricate analysis of modality and polarity systems in Persian scientific discourse, utilizing systemic functional grammar as the analytical lens.

@@ -60,5 +60,3 @@ Since: August 2019 <br>
 - Persian: Native <br>
 - Turkish: Limited Working Proficiency <br>
 - Dutch: Elementary <br>
-
-

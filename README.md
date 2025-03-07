@@ -1,4 +1,4 @@
-# Mohsen Hashemi
+# Industrial Engineer | Exploring Data-Driven Solutions
 
 I am a data professional with a background in industrial engineering, currently focusing on data science and digital transformation. My goal is to create data-driven solutions that drive innovation and efficiency.
 

@@ -6,7 +6,7 @@ baseurl: "" # Base URL for the project
 
 # Appearance settings
 theme: jekyll-theme-minimal
-logo: /assets/img/logo.jpeg
+logo: /assets/img/logo.jpg
 
 # GitHub settings
 github:

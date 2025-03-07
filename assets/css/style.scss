@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.icon-black {
+  color: black;
+}
+
 footer {
   display: none !important;
 }

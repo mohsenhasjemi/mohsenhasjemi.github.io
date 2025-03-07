@@ -1,6 +1,16 @@
+# Site settings
 title: Mohsen Hashemi
-show_downloads: false
+description: Personal website of Mohsen Hashemi
+url: "https://mohsenhasjemi.github.io" # Your website URL
+baseurl: "" # Base URL for the project
+
+# Appearance settings
+theme: jekyll-theme-minimal
 logo: /assets/img/logo.jpeg
+
+# GitHub settings
 github:
   is_project_page: false
-theme: jekyll-theme-minimal
+
+# Other settings
+show_downloads: false

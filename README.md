@@ -59,12 +59,6 @@ Additionally, I have worked as an editor at [Goman Publication](https://gomanboo
 
 - Hashemi, M. & Nikrafat, Sh. (2023). Co-translated segment of "Un homme qui dort (A Man Asleep)" by George Perec. Published in [Kenareh Magazine](https://gomanbook.com/product/kenarehmag/), 1, pp. 151-159. Tehran, Iran.
 
-## Blog
-
-- [The Edge of the Text](https://edgeoftext.blogspot.com/) (Literary)  
-  Since: August 2019  
-  [Telegram](https://t.me/tarikja), [Instagram](https://www.instagram.com/edgeoftext)
-
 ## Languages
 
 - English: Professional Working Proficiency

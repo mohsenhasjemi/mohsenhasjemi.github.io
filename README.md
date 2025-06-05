@@ -1,12 +1,14 @@
-## Exploring Data-Driven Solutions
+As an **Industrial Engineer** with a **data-driven approach**, I'm currently completing a **Digital Transformation traineeship** at the [Digital Society School](https://digitalsocietyschool.org/) in Amsterdam. My objective is to deepen my expertise in **data science** and **digital transformation**, utilizing data to fuel innovation and guide decision-making.
 
-I am an industrial engineer with a data-driven approach, currently undergoing a Digital Transformation traineeship at the [Digital Society School](https://digitalsocietyschool.org/) in Amsterdam, Netherlands. My goal is to enhance my expertise in data science and digital transformation, leveraging data to drive innovation and informed decision-making.
+---
 
 ## Experience
 
-I have experience as a Linguistic Data Analyst at the [Academy of Persian Language and Literature](https://apll.ir/), where I worked with extensive terminological datasets to enhance workflow efficiency. As a Terminology Expert at the [Research Center of Terminology Studies](https://apll.ir/rcts/), I supported research and decision-making through data-driven approaches in terminology management.
+My prior roles include serving as a **Linguistic Data Analyst** at the [Academy of Persian Language and Literature](https://apll.ir/), where I optimized workflow efficiency using extensive terminological datasets. As a **Terminology Expert** at the [Research Center of Terminology Studies](https://apll.ir/rcts/), I facilitated research and decision-making through data-driven terminology management.
 
-Additionally, I have worked as an editor at [Goman Publication](https://gomanbook.com/), contributing to various translations and publications. As the Chief Operating Officer at [Lahn-e Digar](https://www.instagram.com/lahnedigar/), I led operations, implemented Scrum methodology, and established a recording studio for high-quality audiobook production.
+Beyond that, I've worked as an **editor** at [Goman Publication](https://gomanbook.com/), contributing to various translations and publications. As **Chief Operating Officer** at [Lahn-e Digar](https://www.instagram.com/lahnedigar/), I directed operations, implemented **Scrum methodology**, and set up a recording studio for professional audiobook production.
+
+---
 
 ## Education
 

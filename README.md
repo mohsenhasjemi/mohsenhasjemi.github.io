@@ -10,51 +10,7 @@ Beyond that, I've worked as an **editor** at [Goman Publication](https://gomanbo
 
 ---
 
-## Education
+## Curriculum Vitae
 
-- **Postgraduate Traineeship in Digital Transformation, [HvA](https://www.amsterdamuas.com/)**  
-  February 2025 - Now
-
-- **MA in Terminology, [RCTS](https://apll.ir/rcts/)**  
-  September 2016 - September 2020  
-  The academic focus closely parallels Linguistics programs. Guided by [Mohammad Dabir-Moghaddam](https://en.wikipedia.org/wiki/Mohammad_Dabir_Moghaddam), I completed a Master's thesis delving into the intricate analysis of modality and polarity systems in Persian scientific discourse, utilizing systemic functional grammar as the analytical lens.
-
-- **BS in Industrial Engineering, [KIAU](https://karaj.iau.ir/en)**  
-  September 2010 - October 2015  
-  My studies have covered a diverse range of topics including operations research, production planning and control, quality management, probability theory, and statistical analysis.
-
-## Certifications
-
-- **Dive into Data Science**  
-  Provider: [Dayche](https://dayche.com/)  
-  Completion Date: September 2024  
-  Instructor: [Mohammad Rouzbeh](https://www.linkedin.com/in/mohammad-rouzbeh-01b8a378/)  
-  [Credential](https://dayche.com/certification/1277E48A2-31234F3-85059/)
-
-- **Python**  
-  Provider: [Kaggle](https://www.kaggle.com)  
-  Completion Date: February 2024  
-  Instructor: [Colin Morris](https://www.kaggle.com/colinmorris)  
-  [Credential](https://www.kaggle.com/learn/certification/mhsenhshemi/python)
-
-- **Intro to Programming**  
-  Provider: [Kaggle](https://www.kaggle.com)  
-  Completion Date: February 2024  
-  Instructor: [Alexis Cook](https://www.kaggle.com/alexisbcook)  
-  [Credential](https://www.kaggle.com/learn/certification/mhsenhshemi/intro-to-programming)
-
-- **Applied Terminology**  
-  Provider: Academy of Persian Language and Literature  
-  Completion Date: October 2017  
-  Instructor: [Christian Galinski](http://www.infoterm.info/about_us/infoterm_staff.php)
-
-## Publication
-
-- Hashemi, M. & Nikrafat, Sh. (2023). Co-translated segment of "Un homme qui dort (A Man Asleep)" by George Perec. Published in [Kenareh Magazine](https://gomanbook.com/product/kenarehmag/), 1, pp. 151-159. Tehran, Iran.
-
-## Languages
-
-- English: Professional Working Proficiency
-- Persian: Native
-- Turkish: Limited Working Proficiency
-- Dutch: Elementary
+- **Industry-friendly, [.docx](https://1drv.ms/w/c/0bca15535337d8b3/EbEzDDETgSRFlNfvl21V270B_L9lZw4rzf4hBibWNc5Ncw?e=fALUmI)**
+- **Academic, [.docx](https://1drv.ms/w/c/0bca15535337d8b3/EbsvuEu7KHFHonn1-JX8YA0Bb4yAku9NQgsvxHZ6xeGanQ?e=nIiUp0)**

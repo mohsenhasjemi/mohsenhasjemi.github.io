@@ -12,5 +12,5 @@ Beyond that, I've worked as an **editor** at [Goman Publication](https://gomanbo
 
 ## Curriculum Vitae
 
-- **Industry-friendly, [.docx](https://1drv.ms/w/c/0bca15535337d8b3/EbEzDDETgSRFlNfvl21V270B_L9lZw4rzf4hBibWNc5Ncw?e=fALUmI)**
-- **Academic, [.docx](https://1drv.ms/w/c/0bca15535337d8b3/EbsvuEu7KHFHonn1-JX8YA0Bb4yAku9NQgsvxHZ6xeGanQ?e=nIiUp0)**
+- **Industry-friendly[.docx](https://1drv.ms/w/c/0bca15535337d8b3/EbEzDDETgSRFlNfvl21V270B_L9lZw4rzf4hBibWNc5Ncw?e=fALUmI)**
+- **Academic[.docx](https://1drv.ms/w/c/0bca15535337d8b3/EbsvuEu7KHFHonn1-JX8YA0Bb4yAku9NQgsvxHZ6xeGanQ?e=nIiUp0)**
